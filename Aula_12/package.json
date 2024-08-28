@@ -1,0 +1,16 @@
+{
+  "name": "aula_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ex01": "tsc && node ./dist/ex01.js",
+    "ex02": "tsc && node ./dist/ex02.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
