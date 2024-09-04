@@ -5,7 +5,20 @@
   "main": "index.js",
   "scripts": {
     "ex01": "tsc && node ./dist/ex01.js",
-    "ex02": "tsc && node ./dist/ex02.js"
+    "ex02": "tsc && node ./dist/ex02.js",
+    "ex03": "tsc && node ./dist/ex03.js",
+    "ex04": "tsc && node ./dist/ex04.js",
+    "ex05": "tsc && node ./dist/ex05.js",
+    "ex06": "tsc && node ./dist/ex06.js",
+    "ex07": "tsc && node ./dist/ex07.js",
+    "ex08": "tsc && node ./dist/ex08.js",
+    "ex09": "tsc && node ./dist/ex09.js",
+    "ex10": "tsc && node ./dist/ex10.js",
+    "ex11": "tsc && node ./dist/ex11.js",
+    "ex12": "tsc && node ./dist/ex12.js",
+    "ex13": "tsc && node ./dist/ex13.js",
+    "ex14": "tsc && node ./dist/ex14.js",
+    "ex15": "tsc && node ./dist/ex15.js"
   },
   "keywords": [],
   "author": "",
